@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">物理实验平台</string>
+
+    <string name="start_text_title">欢迎使用实验课堂管理系统\n\n实验名称：用气垫摆测量转动惯量</string>
+    <string name="start_current">南京航空航天大学 研制</string>
+
+    <string name="list_button2">实验测量</string>
+    <string name="list_button1">实验原理学习</string>
+
+    <string name="theory_button2">学习手册</string>
+    <string name="theory_button3">学习视频</string>
+
+    <string name="video_play">播放</string>
+    <string name="video_pause">暂停</string>
+    <string name="video_replay">重播</string>
+
+    <string name="measure1_TextView1">选择测量物体</string>
+    <string name="measure1_button_s1">摆轮</string>
+    <string name="measure1_button_s2">摆轮+圆环</string>
+    <string name="measure1_button_s3">摆轮+飞机模型</string>
+    <string name="measure1_button_s4">摆轮+两圆柱</string>
+    <string name="measure1_TextView2">周期数设置:</string>
+    <string name="measure1_editText2">20</string>
+    <string name="measure1_TextView3">周期次数:</string>
+    <string name="measure1_TextView4">计时:</string>
+    <string name="measure1_button1">开始计时</string>
+    <string name="measure1_button2">查询数据</string>
+    <string name="measure1_TextView8">次</string>
+    <string name="measure1_TextView9">s</string>
+
+    <string name="measure3_TextView0">物体</string>
+    <string name="measure3_TextView1">  摆轮（s）  </string>
+    <string name="measure3_TextView2">摆轮 + 圆环（s）</string>
+    <string name="measure3_TextView3">摆轮 + 飞机（s）</string>
+    <string name="measure3_TextView4">摆轮 +两圆柱（s）</string>
+    <string name="measure3_TextView5">需要刪除某一物体请在列尾点删除</string>
+
+    <string name="buttonBac">退出</string>
+    <string name="buttonRtn">返回</string>
+
+
+
+
+
+</resources>

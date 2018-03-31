@@ -1,0 +1,3 @@
+D:\temp\AndroidStudioProjects\intphyexpplatform2\Intphyexpplatform\signapk-files>java -jar ./signapk.jar s5p6818-platform-key/platform.x509.pem s5p6818-platform-key/platform.pk8 ./app-release.apk app-release_signed.apk
+
+D:\temp\AndroidStudioProjects\intphyexpplatform2\Intphyexpplatform\signapk-files>adb install app-release_signed.apk
